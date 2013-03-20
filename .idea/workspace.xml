@@ -28,10 +28,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="notes_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="notes_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/notes_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="45" column="0" selection-start="810" selection-end="810" vertical-scroll-proportion="0.33246073">
+            <state line="45" column="0" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="database.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/database.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="19" selection-start="421" selection-end="421" vertical-scroll-proportion="0.31413612">
               <folding />
             </state>
           </provider>
@@ -81,6 +90,7 @@
         <option value="$PROJECT_DIR$/app/controllers/notes_controller.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
         <option value="$PROJECT_DIR$/db/migrate/20130319215635_create_notes.rb" />
+        <option value="$PROJECT_DIR$/config/database.yml" />
       </list>
     </option>
   </component>
@@ -610,7 +620,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/notes_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="0" selection-start="810" selection-end="810" vertical-scroll-proportion="0.33246073">
+        <state line="45" column="0" selection-start="810" selection-end="810" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="421" selection-end="421" vertical-scroll-proportion="0.31413612">
           <folding />
         </state>
       </provider>
