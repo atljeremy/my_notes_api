@@ -4,4 +4,6 @@ MyNotesApi::Application.routes.draw do
 
   resources :notes
 
+  get "/new_note" => "WebUis#index"
+
 end
