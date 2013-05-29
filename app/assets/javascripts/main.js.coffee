@@ -4,7 +4,7 @@ class MyNotes
     #do nothing just yet
 
   bindFormSubmitted: =>
-    console.log MyNotesNative
+    alert MyNotesNative
     formBtn = $('#submitForm')
     formBtn.click (e) =>
       console.log "Submit button clicked!"

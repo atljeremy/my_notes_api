@@ -31,7 +31,7 @@
     <file path="/routes.rb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369797546618" ignored="false" />
     <file path="/web_uis_controller.rb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369797789024" ignored="false" />
     <file path="/index.html.erb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369843062062" ignored="false" />
-    <file path="/main.js.coffee" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369861858967" ignored="false" />
+    <file path="/main.js.coffee" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369862387439" ignored="false" />
     <file path="/application.html.erb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369844349382" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +96,7 @@
       <file leaf-file-name="main.js.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="28" selection-start="485" selection-end="485" vertical-scroll-proportion="0.57788944">
+            <state line="7" column="30" selection-start="137" selection-end="137" vertical-scroll-proportion="0.1758794">
               <folding />
             </state>
           </provider>
@@ -878,7 +878,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="28" selection-start="485" selection-end="485" vertical-scroll-proportion="0.57788944">
+        <state line="7" column="30" selection-start="137" selection-end="137" vertical-scroll-proportion="0.1758794">
           <folding />
         </state>
       </provider>
