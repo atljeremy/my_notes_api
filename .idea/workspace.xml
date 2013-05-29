@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/web_uis/index.html.erb" afterPath="$PROJECT_DIR$/app/views/web_uis/index.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" />
     </list>
     <ignored path="My_Notes_API.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,19 +84,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/web_uis/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="24" selection-start="739" selection-end="739" vertical-scroll-proportion="0.4017857">
+            <state line="15" column="24" selection-start="739" selection-end="739" vertical-scroll-proportion="-9.375">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="23" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+            <state line="12" column="20" selection-start="285" selection-end="285" vertical-scroll-proportion="0.30150753">
               <folding />
             </state>
           </provider>
@@ -141,8 +141,8 @@
         <option value="$PROJECT_DIR$/app/controllers/web_uis_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" />
         <option value="$PROJECT_DIR$/app/views/web_uis/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" />
       </list>
     </option>
   </component>
@@ -869,16 +869,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
+    <entry file="file://$PROJECT_DIR$/app/views/web_uis/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="23" selection-start="106" selection-end="106" vertical-scroll-proportion="0.0">
+        <state line="15" column="24" selection-start="739" selection-end="739" vertical-scroll-proportion="-9.375">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/web_uis/index.html.erb">
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="24" selection-start="739" selection-end="739" vertical-scroll-proportion="0.4017857">
+        <state line="12" column="20" selection-start="285" selection-end="285" vertical-scroll-proportion="0.30150753">
           <folding />
         </state>
       </provider>
