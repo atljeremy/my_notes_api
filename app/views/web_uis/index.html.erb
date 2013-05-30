@@ -1,10 +1,12 @@
-<form action="#" method="post" id="billForm" data-ajax="false">
+<form action="#" method="post" id="billForm">
   <fieldset>
     <legend><h2>Create a New Note</h2></legend>
     <ul>
-      <li><label for="title" class="sectionHeader">Title:</label><input type="text" id="title" required maxlength="100" title="Enter your name in this field. Maximum of 25 characters." placeholder="John doe" /></li>
+      <li><label for="formTitle" class="sectionHeader">Title:</label>
+        <input type="text" id="formTitle" maxlength="100" /></li>
 
-      <li><label for="details" class="sectionHeader">Details:</label><input type="text" id="details" required maxlength="500" title="Enter payee in this field. Maximum of 30 characters." placeholder="Full Sail University" /></li>
+      <li><label for="formDetails" class="sectionHeader">Details:</label>
+        <textarea id="formDetails" maxlength="500" ></textarea></li>
     </ul>
 
     <input type="submit" id="submitForm" value="Save This Note" />

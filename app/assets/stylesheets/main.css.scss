@@ -1,0 +1,51 @@
+.mainContainer {
+  padding: 20px
+}
+
+.sectionHeader {
+  display: block;
+  font-family: Helvetica, Verdana, Arial, sans-serif;
+  font-size: 15px;
+  padding: 5px;
+  margin-bottom: 10px;
+  width: 250px;
+  text-shadow: 2px 2px 2px #000;
+  color: white;
+  filter: dropshadow(color=#000, offx=2, offy=2);
+  background: -moz-linear-gradient(left, rgba(100,100,100,0.55) 0%, rgba(100,100,100,0) 100%);
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(100,100,100,0.55)), color-stop(100%,rgba(100,100,100,0)));
+  background: -webkit-linear-gradient(left, rgba(100,100,100,0.55) 0%,rgba(100,100,100,0) 100%);
+  background: -o-linear-gradient(left, rgba(100,100,100,0.55) 0%,rgba(100,100,100,0) 100%);
+  background: -ms-linear-gradient(left, rgba(100,100,100,0.55) 0%,rgba(100,100,100,0) 100%);
+  background: linear-gradient(left, rgba(100,100,100,0.55) 0%,rgba(100,100,100,0) 100%);
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px
+}
+
+a {
+  color:#000;
+  text-decoration:none
+}
+
+h2 a {
+  color:#fff;
+  text-decoration:underline
+}
+
+ul {
+  list-style:none;
+  padding:0;
+  margin:0;
+  position:relative;
+  display:block;
+  border:0
+}
+
+li {
+  margin-bottom:0px
+}
+
+legend {
+  padding-bottom:5px
+}

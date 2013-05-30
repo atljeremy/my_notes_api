@@ -2,16 +2,15 @@ class MyNotes
 
   constructor: ->
 
-  setMyNotesNative: (@myNotesNative) =>
-
   bindFormSubmitted: =>
     formBtn = $('#submitForm')
     formBtn.click (e) =>
-      console.log "Submit button clicked!"
       mynotes.stopEvent(e)
-      title = $('#title')
-      details = $('#details')
-      mynotes.myNotesNative.saveNote(title, details)
+      title = $('#formTitle')
+      details = $('#formDetails')
+      console.log title.val()
+      console.log details.val()
+      MyNotesNative.saveNote(title.val(), details.val())
       false
     false
 
@@ -20,3 +19,4 @@ class MyNotes
     e.stopPropagation()
 
 @mynotes = new MyNotes()
+@mynotes.bindFormSubmitted()
