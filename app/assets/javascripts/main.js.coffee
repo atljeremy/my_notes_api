@@ -1,7 +1,8 @@
 class MyNotes
 
   constructor: ->
-    #do nothing just yet
+
+  setMyNotesNative: (@myNotesNative) =>
 
   bindFormSubmitted: =>
     formBtn = $('#submitForm')
@@ -10,7 +11,7 @@ class MyNotes
       mynotes.stopEvent(e)
       title = $('#title')
       details = $('#details')
-      @MyNotesNative.saveNote(title, details)
+      mynotes.myNotesNative.saveNote(title, details)
       false
     false
 
@@ -19,5 +20,3 @@ class MyNotes
     e.stopPropagation()
 
 @mynotes = new MyNotes()
-
-@mynotes.bindFormSubmitted()
