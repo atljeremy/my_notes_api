@@ -1,5 +1,5 @@
 .mainContainer {
-  padding: 20px
+  padding: 20px;
 }
 
 .sectionHeader {
@@ -20,17 +20,58 @@
   background: linear-gradient(left, rgba(100,100,100,0.55) 0%,rgba(100,100,100,0) 100%);
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
-  border-radius: 5px
+  border-radius: 5px;
+  font-family: Dakota
 }
 
-a {
-  color:#000;
-  text-decoration:none
+.ui-btn-text {
+  -moz-box-shadow: 0px 0px;
+  box-shadow: 0px 0px;
+  text-shadow: 0px 0px;
+  color: white;
 }
 
-h2 a {
-  color:#fff;
-  text-decoration:underline
+.ui-btn-up-c {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  background: #518ad6;
+  border: 0px;
+  -moz-box-shadow: 0px;
+  box-shadow: 0px;
+  font-family: Dakota;
+}
+
+.ui-btn-hover-c {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  background: #5a92de;
+  border: 0px;
+  -moz-box-shadow: 0px;
+  box-shadow: 0px;
+  font-family: Dakota
+}
+
+.ui-btn-down-c {
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  border-radius: 0px;
+  background: #2d63aa;
+  border: 0px;
+  -moz-box-shadow: 0px;
+  box-shadow: 0px;
+  font-family: Dakota
+}
+
+@font-face {
+  font-family: Dakota;
+  src: url('Dakota-Regular.ttf');
+  font-style: normal;
+}
+
+h2 {
+  font-family: Dakota;
 }
 
 ul {
