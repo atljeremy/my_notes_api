@@ -64,10 +64,22 @@
   font-family: Dakota
 }
 
+.center {
+  text-align: center;
+}
+
 @font-face {
   font-family: Dakota;
   src: url('Dakota-Regular.ttf');
   font-style: normal;
+}
+
+span {
+  font-family: Dakota;
+  color: black;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h2 {

@@ -23,19 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/web_uis/index.html.erb" afterPath="$PROJECT_DIR$/app/views/web_uis/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" />
     </list>
     <ignored path="My_Notes_API.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369799374187" ignored="false" />
     <file path="/routes.rb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369797546618" ignored="false" />
     <file path="/web_uis_controller.rb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369797789024" ignored="false" />
-    <file path="/index.html.erb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369882775706" ignored="false" />
-    <file path="/main.js.coffee" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369879692792" ignored="false" />
+    <file path="/index.html.erb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369950509642" ignored="false" />
+    <file path="/main.js.coffee" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369951203827" ignored="false" />
     <file path="/application.html.erb" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369881061454" ignored="false" />
     <file path="/scaffolds.css.scss" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369881244052" ignored="false" />
-    <file path="/main.css.scss" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369939240910" ignored="false" />
+    <file path="/main.css.scss" changelist="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" time="1369950720926" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/web_uis/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="15" selection-start="72" selection-end="74" vertical-scroll-proportion="-1.3076923">
+            <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -78,19 +79,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css.scss" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="21" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.8">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="22" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
+            <state line="81" column="21" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -105,10 +97,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js.coffee" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js.coffee" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
+            <state line="23" column="0" selection-start="594" selection-end="594" vertical-scroll-proportion="0.6571429">
               <folding />
             </state>
           </provider>
@@ -144,11 +136,11 @@
         <option value="$PROJECT_DIR$/app/controllers/web_uis_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/web_uis/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/web_uis/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" />
       </list>
     </option>
   </component>
@@ -849,27 +841,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="20" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="621" selection-end="621" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="59" selection-start="230" selection-end="230" vertical-scroll-proportion="-3.2692308">
@@ -877,16 +848,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="20" selection-start="577" selection-end="577" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="22" selection-start="621" selection-end="621" vertical-scroll-proportion="0.37142858">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/web_uis/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="15" selection-start="72" selection-end="74" vertical-scroll-proportion="-1.3076923">
+        <state line="0" column="21" selection-start="21" selection-end="21" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/main.css.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="21" selection-start="1718" selection-end="1718" vertical-scroll-proportion="0.8">
+        <state line="81" column="21" selection-start="1962" selection-end="1962" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="594" selection-end="594" vertical-scroll-proportion="0.6571429">
           <folding />
         </state>
       </provider>
