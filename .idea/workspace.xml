@@ -23,9 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f8ffbc9-2b50-4a2d-9370-e3a2579ec12e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/web_uis/index.html.erb" afterPath="$PROJECT_DIR$/app/views/web_uis/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" afterPath="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
     </list>
     <ignored path="My_Notes_API.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -97,10 +95,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js.coffee" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.js.coffee" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="594" selection-end="594" vertical-scroll-proportion="0.6571429">
+            <state line="23" column="0" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gemfile">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="28" selection-start="386" selection-end="386" vertical-scroll-proportion="0.4">
               <folding />
             </state>
           </provider>
@@ -135,12 +142,12 @@
         <option value="$PROJECT_DIR$/config/database.yml" />
         <option value="$PROJECT_DIR$/app/controllers/web_uis_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.css.scss" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/web_uis/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/main.css.scss" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/main.js.coffee" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -813,13 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="107" selection-start="338" selection-end="338" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/web_uis_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="26" selection-start="125" selection-end="125" vertical-scroll-proportion="0.12605043">
@@ -878,7 +878,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/main.js.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="594" selection-end="594" vertical-scroll-proportion="0.6571429">
+        <state line="23" column="0" selection-start="594" selection-end="594" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="28" selection-start="386" selection-end="386" vertical-scroll-proportion="0.4">
           <folding />
         </state>
       </provider>
