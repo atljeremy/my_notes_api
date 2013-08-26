@@ -1,6 +1,6 @@
 MyNotesApi::Application.routes.draw do
 
-  resources :users
+  resources :users, except: :index
 
   resources :notes
 
